@@ -4,7 +4,7 @@
 
 ## Overview
 
-jiyu-kaku is a free writing application that promotes free thinking.
+**jiyu-kaku** is a free writing application that promotes free thinking.
 
 ## Tech Stack
 
